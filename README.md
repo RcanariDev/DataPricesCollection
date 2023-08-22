@@ -15,4 +15,4 @@ Web scrapping to a comercial website to get all information about its prices, di
 
 <img src="/img/DataCollection12.png" width=60% height=60%>
 
-
+<img src="/img/DataCollection14.png" width=60% height=60%>
